@@ -1,24 +1,50 @@
-# README
+# twitter-clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the project to learn about the authentication and more on Rails.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+-   Ruby
+-   Rubocop
+-   Ubuntu
+-   Rails
 
-* System dependencies
+## Prerequisities
 
-* Configuration
+To get this project up and running locally, you must already have ruby and rails installed on your computer.
 
-* Database creation
+## Getting Started
 
-* Database initialization
+**Setup**
 
-* How to run the test suite
+- Clone this repository with ```git@github.com:eypsrcnuygr/twitter-clone.git``` using your terminal or command line.<br>
+- Change to the project directory by entering ```cd twitter-clone``` in the terminal<br>
+- Next run ```bundle install``` to install the necessary dependencies<br>
+- Run ```rails db:migrate``` to setup your local database.<br>
+- Finally run ```rails console``` to start the application.<br>
 
-* Services (job queues, cache servers, search engines, etc.)
+## Authors
 
-* Deployment instructions
+👤 **Eyüp Sercan UYGUR**
 
-* ...
+-   Github: [@eypsrcnuygr](https://github.com/eypsrcnuygr)
+-   Twitter: [@eypsrcnuygr](https://twitter.com/eypsrcnuygr)
+-   LinkedIn: [eypsrcnuygr](https://www.linkedin.com/in/eypsrcnuygr/)
+-   Gmail: <mailto:sercanuygur@gmail.com>
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+-   This Project was part of an assignment available on The Odin Project.
+-   Our thanks to Microverse and all our peers and colleagues there.
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
