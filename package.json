@@ -1,5 +1,5 @@
 {
-  "name": "twitter_clone",
+  "name": "Twitter_Clone",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
