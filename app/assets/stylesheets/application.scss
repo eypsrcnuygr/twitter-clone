@@ -13,20 +13,21 @@
  *= require_tree .
  *= require_self
  */
- 
- @import "bulma";
 
- .navbar-brand .title {
-   color: white;
- }
+@import "bulma";
 
- .image {
-   border-radius: 50%;
-   img {
-     border-radius: 50%;
-   }
- }
+.navbar-brand .title {
+  color: white;
+}
 
- .notification:not(:last-child) {
-   margin-bottom: 0;
- }
+.image {
+  border-radius: 50%;
+
+  img {
+    border-radius: 50%;
+  }
+}
+
+.notification:not(:last-child) {
+  margin-bottom: 0;
+}
